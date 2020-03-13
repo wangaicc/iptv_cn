@@ -10,13 +10,9 @@ http://hls.dhtv.cn:8080/live/v3_13.m3u8
 #EXTINF:-1 ,温州公共频道
 http://hls.dhtv.cn:8080/live/v4_14.m3u8
 #EXTINF:-1,CCTV 01
-http://umslive.hebyun.com.cn/live/cctv1/1500k/tzwj_video.m3u8
-#EXTINF:-1,CCTV 01
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228504/index.m3u8?fmt=ts2hls
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1,CCTV 02
-http://umslive.hebyun.com.cn/live/cctv2/1500k/tzwj_video.m3u8
-#EXTINF:-1,CCTV 02
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228482/index.m3u8?fmt=ts2hls
+http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1,CCTV 03
 http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
 #EXTINF:-1,CCTV 03
